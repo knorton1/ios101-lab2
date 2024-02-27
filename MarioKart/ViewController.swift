@@ -5,6 +5,8 @@
 //  Created by Charles Hieger on 1/25/19.
 //  Copyright © 2019 Charles Hieger. All rights reserved.
 //
+// I read through all of the steps again 
+
 
 import UIKit
 
